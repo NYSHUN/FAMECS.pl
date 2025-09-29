@@ -1,1 +1,0 @@
-# FAMECS.pl
